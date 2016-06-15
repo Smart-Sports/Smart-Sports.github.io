@@ -168,6 +168,11 @@ span.text-dark {
 	padding-bottom: 15px;
 }
 
+img.social-linkedin {
+	height: 30px;
+	width: 30px;
+}
+
 @media (max-width: 970px) {
 	.section-spacing {
 		padding-top: 75px;
@@ -199,6 +204,11 @@ span.text-dark {
 		text-align: center;
 		height: 50%;
 		width: 50%;
+	}
+
+	img.social-linkedin {
+		height: 40px;
+		width: 40px;
 	}
 }
 
