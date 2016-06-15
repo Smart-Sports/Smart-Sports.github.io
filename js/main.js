@@ -27,3 +27,7 @@ function sizeElements() {
 
     $(".google-map").width($(".google-map-wrapper").width());
 }
+
+$(".nav a").on("click", function(){
+    $(".navbar-toggle").click() //bootstrap 3.x by Richard
+});
